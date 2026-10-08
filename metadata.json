@@ -1,0 +1,10 @@
+{
+  "name": "Sahaara — Prescription Safety & Daily Medication Map",
+  "description": "Camera-based prescription verification, medicine contraindication safety checks, and interactive daily medication timelines.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
